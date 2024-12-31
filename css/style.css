@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+}
+ul{
+	list-style: none;
+}
+body{
+	background:#eefafe;
+	font-family: "微软雅黑";
+
+}
+.box{
+	max-width: 1200px;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	color: #333;
+
+}
+a{
+	text-decoration: none;
+
+}
+p{
+	padding: 10px;
+	line-height: 26px;
+	text-indent: 25pt;
+	text-align: left;
+}
+h2,h3{
+	margin: 20pxn 0px;
+}
+@media screen and (max-width: 768px){
+	img{
+		width: 100%;
+	}
+}
+
